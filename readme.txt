@@ -25,7 +25,6 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 Please visit http://vasthtml.com/js/vinta-construction-plugin/ for usage instructions.
-For a complete demo visit http://vasthtml.com/support/
 
 == Frequently Asked Questions ==
 
