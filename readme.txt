@@ -14,7 +14,8 @@ Its very often that you update your site, or decide to try new themes and make s
 ok before you want your visitors to view the site. Sometimes you want to stop them before the view your 
 site while you are completing updates or even just getting the site started. This plugin will 
 keep away the users you don’t want and do it with a great look that will get the visitors attention. 
-This is a Wordpress plugin on the file available on Theme Forest. Plugin also has a updater to let you know when a new version is available.
+This is a Wordpress plugin on the file available on Theme Forest. You will need to purchase this plugin for it to work correcly. 
+Plugin also has a updater to let you know when a new version is available.
 
 == Installation ==
 
