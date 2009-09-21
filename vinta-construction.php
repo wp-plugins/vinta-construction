@@ -8,6 +8,7 @@ Version: 1.0
 Author URI: http://vasthtml.com/
 Co Author: Ben
 Co Author Website: http://ben.nightspirit.nl/ 
+Credit for the original HTML version goes to EpicsDesign and ReidKnorr
 */
 
 $plugin_dir = basename(dirname(__FILE__));
