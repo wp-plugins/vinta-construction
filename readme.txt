@@ -26,6 +26,11 @@ This section describes how to install the plugin and get it working.
 
 Please visit http://vasthtml.com/js/vinta-construction-plugin/ for usage instructions.
 
+== Demo ==
+
+Withoutreligion.com has very kindly offered to set up a full time demo of the site.
+http://withoutreligion.com/vinta_demo/ 
+
 == Frequently Asked Questions ==
 
 = Where can I get support? = 
