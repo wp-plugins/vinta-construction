@@ -17,6 +17,9 @@ keep away the users you don’t want and do it with a great look that will get the
 This is a Wordpress plugin on the file available on Theme Forest. You will need to purchase this plugin for it to work correcly. 
 Plugin also has a updater to let you know when a new version is available.
 
+Withoutreligion.com has very kindly offered to set up a full time demo of the site.
+http://withoutreligion.com/vinta_demo/ 
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
@@ -25,11 +28,6 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 Please visit http://vasthtml.com/js/vinta-construction-plugin/ for usage instructions.
-
-== Demo ==
-
-Withoutreligion.com has very kindly offered to set up a full time demo of the site.
-http://withoutreligion.com/vinta_demo/ 
 
 == Frequently Asked Questions ==
 
