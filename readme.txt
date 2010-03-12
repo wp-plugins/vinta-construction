@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Eric Hamby
+Contributors: Vast HTML
 Donate link: http://vasthtml.com/
 Tags: construction, maintenance, splash, countdown
 Requires at least: 2.6
